@@ -30,9 +30,7 @@ Actualmente trabajo en mi tesis: *Desarrollo de un Asistente Conversacional Inte
 ## 🏆 Mis Estadísticas
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vgcarlol&theme=radical" alt="Resumen del Perfil de GitHub" width="800" />
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=vgcarlol&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trofeos de GitHub" />
+  <img src="https://metrics.lecoq.io/vgcarlol?template=classic&config.timezone=America%2FGuatemala" alt="Métricas de GitHub" />
 </div>
 
 ## 🛠 Tecnologías y Herramientas
