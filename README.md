@@ -29,7 +29,11 @@ Actualmente trabajo en mi tesis: *Desarrollo de un Asistente Conversacional Inte
 
 ## 🏆 Mis Estadísticas
 
-![Estadísticas de GitHub de Carlos](https://github-readme-stats.vercel.app/api?username=vgcarlol&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vgcarlol&theme=radical" alt="Resumen del Perfil de GitHub" width="800" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vgcarlol&theme=radical&hide_border=true" alt="Racha de GitHub" />
+</div>
 
 ## 🛠 Tecnologías y Herramientas
 
